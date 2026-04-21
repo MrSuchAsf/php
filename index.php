@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <a href = "p1.php"><button>Przykład 1</button></a>
+    <a href = "p2.php"><button>Przykład 2</button></a>
+    <a href = "p3.php"><button>Przykład 3</button></a>
+    <a href = "p4_formularz.php"><button>Przykład 4 formularz</button></a>
+    <a href = "p5_formularz.php"><button>Przykład 5 formularz</button></a>
+    <a href = "p6.php"><button>Przykład 6</button></a>
+     <a href = "p7.php"><button>Przykład 7</button></a>
+     <a href = "p8.php"><button>Przykład 8</button></a>
+      <a href = "p7_txtsh.php"><button>Przykład text</button></a>
+      <a href = "p10_zamiana.php"><button>Podmiana</button></a>
+      <a href = "p11_palindrom.php"><button>Palid</button></a>
+      <a href = "p12_exploer.php"><button>Exploer</button></a>
+</body>
+</html>
