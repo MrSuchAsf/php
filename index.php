@@ -18,5 +18,12 @@
       <a href = "p10_zamiana.php"><button>Podmiana</button></a>
       <a href = "p11_palindrom.php"><button>Palid</button></a>
       <a href = "p12_exploer.php"><button>Exploer</button></a>
+     <a href = "p13.php"><button>P13</button></a>
+        <a href = "p14.php"><button>P14</button></a>
+           <a href = "p15.php"><button>P15</button></a>
+              <a href = "p16.php"><button>P16</button></a>
+                 <a href = "p17.php"><button>P17</button></a>
+                    <a href = "p18.php"><button>P18</button></a>
+
 </body>
 </html>
