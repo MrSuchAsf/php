@@ -14,8 +14,7 @@
             }
 
         elseif(isset($_POST["asd2"]))
-        {
-            
+        { 
             $a--;
         }
         elseif(isset($_POST["asd3"]))
@@ -24,10 +23,10 @@
         }
     ?>
     <form action="p23.php" method = "POST">
-        <p>Licznik: <input type="number" name="imie" value = "<?php echo $a ?>"></p>
-        <input type="submit" name="asd" value = " + ">
-        <input type="submit" name="asd2" value = " - ">
-        <input type="submit" name="asd3" value = " 0 ">
+        <p>Licznik: <input type="number" name = "imie" value = "<?php echo $a ?>"></p>
+        <input type = "submit" name = "asd" value = " + ">
+        <input type = "submit" nam = "asd2" value = " - ">
+        <input type = "submit" name = "asd3" value = " 0 ">
     </form>   
 </body>
 </html>
