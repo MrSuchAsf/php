@@ -7,31 +7,27 @@
 </head>
 <body> 
     <?php
-        
+        $a = $_POST["imie"];
         if(isset($_POST["asd"]))
             {
-                $a = $_POST["imie"];
                 $a++;
             }
 
-            elseif(isset($_POST["asd2"]))
-            {
-                $a = $_POST["imie"];
-                $a--;
-            }
-            elseif(isset($_POST["asd3"]))
-            {
-                $a = $_POST["imie"];
-                $a = 0;
-            }
-        ?>
+        elseif(isset($_POST["asd2"]))
+        {
+            
+            $a--;
+        }
+        elseif(isset($_POST["asd3"]))
+        {
+            $a = 0;
+        }
+    ?>
     <form action="p23.php" method = "POST">
-        <p>Imie: <input type="text" name="imie" value = "<?php echo $a ?>"></p>
+        <p>Licznik: <input type="number" name="imie" value = "<?php echo $a ?>"></p>
         <input type="submit" name="asd" value = " + ">
         <input type="submit" name="asd2" value = " - ">
         <input type="submit" name="asd3" value = " 0 ">
-    </form>
-
-   
+    </form>   
 </body>
 </html>
