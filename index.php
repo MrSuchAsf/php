@@ -12,18 +12,22 @@
     <a href = "p4_formularz.php"><button>Przykład 4 formularz</button></a>
     <a href = "p5_formularz.php"><button>Przykład 5 formularz</button></a>
     <a href = "p6.php"><button>Przykład 6</button></a>
-     <a href = "p7.php"><button>Przykład 7</button></a>
-     <a href = "p8.php"><button>Przykład 8</button></a>
-      <a href = "p7_txtsh.php"><button>Przykład text</button></a>
-      <a href = "p10_zamiana.php"><button>Podmiana</button></a>
-      <a href = "p11_palindrom.php"><button>Palid</button></a>
-      <a href = "p12_exploer.php"><button>Exploer</button></a>
-     <a href = "p13.php"><button>P13</button></a>
-        <a href = "p14.php"><button>P14</button></a>
-           <a href = "p15.php"><button>P15</button></a>
-              <a href = "p16.php"><button>P16</button></a>
-                 <a href = "p17.php"><button>P17</button></a>
-                    <a href = "p18.php"><button>P18</button></a>
-
+    <a href = "p7.php"><button>Przykład 7</button></a>
+    <a href = "p8.php"><button>Przykład 8</button></a>
+    <a href = "p7_txtsh.php"><button>Przykład text</button></a>
+    <a href = "p10_zamiana.php"><button>Podmiana</button></a>
+    <a href = "p11_palindrom.php"><button>Palid</button></a>
+    <a href = "p12_exploer.php"><button>Exploer</button></a>
+    <a href = "p13.php"><button>P13</button></a>
+    <a href = "p14.php"><button>P14</button></a>
+    <a href = "p15.php"><button>P15</button></a>
+    <a href = "p16.php"><button>P16</button></a>
+    <a href = "p17.php"><button>P17</button></a>
+    <a href = "p18.php"><button>P18</button></a>
+    <a href = "p19.php"><button>P19_Funkcje</button></a>
+    <a href = "20.php"><button>P20_Funkcje</button></a>
+    <a href = "p21.php"><button>P21_Funkcje</button></a>
+    <a href = "p22.php"><button>P22_Funkcje</button></a>
+    <a href = "p23.php"><button>P23_Kliker</button></a>
 </body>
 </html>
