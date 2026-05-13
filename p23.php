@@ -7,7 +7,7 @@
 </head>
 <body> 
     <?php
-        $a = $_POST["imie"];
+        $a = intval($_POST["imie"]);
         if(isset($_POST["asd"]))
             {
                 $a++;
