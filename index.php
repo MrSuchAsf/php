@@ -29,5 +29,8 @@
     <a href = "p21.php"><button>P21_Funkcje</button></a>
     <a href = "p22.php"><button>P22_Funkcje</button></a>
     <a href = "p23.php"><button>P23_Kliker</button></a>
+    <a href = "p24.php"><button>P24_Kliker</button></a>
+     <a href = "p25.php"><button>P25</button></a>
+      <a href = "p26.php"><button>P26</button></a>
 </body>
 </html>
